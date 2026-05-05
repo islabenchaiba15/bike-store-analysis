@@ -1,4 +1,3 @@
-<img width="1408" height="768" alt="Gemini_Generated_Image_vtydp1vtydp1vtyd" src="https://github.com/user-attachments/assets/f3eb5ce9-e6df-42de-bfdb-1d3bdf6db074" />
 # Sales Intelligence: End-to-End Analytics Engineering Project
 ### Medallion Architecture · SQL Server Data Warehouse · Power BI Dashboard · Business Insights
 
