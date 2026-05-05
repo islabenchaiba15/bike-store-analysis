@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_vtydp1vtydp1vtyd" src="https://github.com/user-attachments/assets/f3eb5ce9-e6df-42de-bfdb-1d3bdf6db074" />
 # Sales Intelligence: End-to-End Analytics Engineering Project
 ### Medallion Architecture · SQL Server Data Warehouse · Power BI Dashboard · Business Insights
 
@@ -81,7 +82,7 @@ The pipeline was built inside a **SQL Server data warehouse** using a three-laye
 
 The diagram below illustrates the end-to-end high-level architecture of the project — from raw source systems through the three-layer SQL Server data warehouse to the final consumption layer.
 
-![High Level Architecture](data_architecture.png)
+<img width="1008" height="468" alt="Gemini_Generated_Image_vtydp1vtydp1vtyd" src="https://github.com/user-attachments/assets/ca577ae4-47f4-4a97-8fbd-3d7016ddb2e5" />
 
 > **Sources** (CRM + ERP CSV files) → **Bronze Layer** (Raw Data / Tables) → **Silver Layer** (Cleaned & Standardised / Tables) → **Gold Layer** (Business-Ready / Views) → **Consume** (Power BI · Ad-Hoc SQL · Machine Learning)
 
