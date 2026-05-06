@@ -69,13 +69,7 @@ The pipeline was built inside a **SQL Server data warehouse** using a three-laye
 - Top 10 product performance ranked by revenue and average order value
 - Gross margin analysis by category — identified the margin paradox between Bikes and Accessories
 
-**Dashboard Design (Power BI — 3 Pages)**
-- *Page 1 — Sales Performance:* 6 KPI cards, monthly revenue trend, category donut, country bar chart, top 10 products table
-- *Page 2 — Customer Intelligence:* Age group revenue, gender split, geographic bubble map, customer cohort over time
-- *Page 3 — Product Analysis:* Revenue vs margin scatter (quadrant view), subcategory treemap, product line grouped bar, product lifecycle Gantt
-- Global filters persist across all pages: Date Range · Country · Category · Product Line
 
----
 
 ## Data Architecture
 
